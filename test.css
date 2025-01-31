@@ -8,3 +8,21 @@
   border: 5px solid brown;  
 }
 
+.box_cont{
+    display: flex;
+    justify-content: center;
+    background-color: darkcyan;
+}
+.box{
+    margin: 5px;
+    padding: 5px;
+}
+.box_head{
+    text-align: center;
+}
+#box1{
+    background-color: aqua;
+}
+#box2{
+    background-color: darkseagreen;
+}
