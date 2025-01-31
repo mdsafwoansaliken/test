@@ -1,0 +1,10 @@
+*{
+    margin: 0px;
+}
+#first_heading{
+  text-align: center;
+  background-color: bisque;
+  margin: 10px;
+  border: 5px solid brown;  
+}
+
